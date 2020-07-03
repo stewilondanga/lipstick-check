@@ -56,11 +56,11 @@ body {
   z-index: -1;
 }
 
-/*input:checked + .slider:after {
+input:checked+.slider:after {
   transform: translateY(-3em);
 }
 
-.containers {
+/*.containers {
   width: 520px;
   margin: 20px auto;
 }
