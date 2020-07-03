@@ -20,13 +20,13 @@ body {
   height: 1.5em;
 }
 
-/*.switch {
+.switch {
   width: 3.5em;
   height: 7.5em;
   position: relative;
 }
 
-.switch input {
+/*.switch input {
   display: none;
 }
 
