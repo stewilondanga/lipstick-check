@@ -26,11 +26,11 @@ body {
   position: relative;
 }
 
-/*.switch input {
+.switch input {
   display: none;
 }
 
-.slider {
+/*.slider {
   width: 3.5em;
   height: 7.5em;
   background: linear-gradient(to right, rgb(219, 219, 219), rgb(164, 164, 164));
